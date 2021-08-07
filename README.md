@@ -5,7 +5,8 @@
 - 😏😝 喜欢鸽的小白
 - 想要加入我的OPENAL组织的在留言板上留下您的github name哦~
 
--  一个活跃的西girl![image](https://user-images.githubusercontent.com/62407841/128600158-53c4aed7-5b46-4750-bcf6-9b176c2e9aab.png)
+-  一个活跃的西瓜girl![image](https://user-images.githubusercontent.com/62407841/128600235-eec275a9-061b-435d-abc0-3608908332d5.png)
+
 
 ![xhs753's github stats](https://github-readme-stats.vercel.app/api?username=xhs753&show_icons=true&theme=vue&line_height=20)
 ![Xhs753's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhs753&layout=compact&theme=vue&card_width=270)
