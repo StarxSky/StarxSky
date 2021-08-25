@@ -55,3 +55,12 @@ CSS                      0 repos              ░░░░░░░░░░░�
 
  Last Updated on 24/08/2021
 <!--END_SECTION:waka-->
+
+<iframe 
+    height=450 
+    width=800 
+    src="https://github.com/Xhs753/Xhs753/blob/main/CNBotStaticImg.mp4" 
+    frameborder=0 
+    allowfullscreen>
+</iframe>
+
