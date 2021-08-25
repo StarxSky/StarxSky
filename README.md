@@ -10,7 +10,7 @@
 
 
 
-![Xhs753's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhs753&layout=compact&theme=vue&card_width=270)  ![xhs753's github stats](https://github-readme-stats.vercel.app/api?username=xhs753&show_icons=true&theme=vue&line_height=20)
+![Xhs753's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhs753&layout=compact&theme=radical&card_width=270)  ![xhs753's github stats](https://github-readme-stats.vercel.app/api?username=xhs753&show_icons=true&theme=radical&line_height=20)
 
 ⬇️ **留言板 (点击下方图片给我留言~)**
 <br><br>
