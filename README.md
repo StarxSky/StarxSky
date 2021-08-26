@@ -9,7 +9,7 @@
 - 想要加入我的OPENAL组织的在留言板上留下您的github name哦~
 
 
--  一个活跃的西瓜girl![image](https://user-images.githubusercontent.com/62407841/128600235-eec275a9-061b-435d-abc0-3608908332d5.png)
+-  一个活跃的西瓜![image](https://user-images.githubusercontent.com/62407841/128600235-eec275a9-061b-435d-abc0-3608908332d5.png)
 
 
 
