@@ -1,6 +1,8 @@
 ### Xhs753
 #### About Me
-- 😃 一个专门喜欢搞人工智障的小白一枚   
+- 😃 一个专门喜欢搞人工智能的小白一枚   
+- 计算机视觉研究
+
 - 😉 前IOS开发小白                           
 - 如果有什么不足之处请提出意见
 - ![xhs753's github stats](https://github-readme-stats.vercel.app/api?username=xhs753&show_icons=true&theme=radical&line_height=20)
