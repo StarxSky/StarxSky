@@ -17,6 +17,9 @@ Questions are welcome!
 ## My Friends🤗
 - DawnNights https://github.com/DawnNights
 - Starx https://github.com/SuzukiHonoka
+- 散无友纪 https://github.com/tdf1939
+- Ywen-Chan https://github.com/Yiwen-Chan
+- fumiama https://github.com/fumiama
 
 
 
