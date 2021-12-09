@@ -2,9 +2,9 @@
 #### About Me
 - 😃 A watermelon 🍉, like to engage in 
 computer artificial intelligence vision, 
-welcome to point me! 
+welcome to point a bit me! 
 I will keep improving！
-- 😉 At the same time, I am a student. Please forgive me for any shortcomings! 
+- 😉 At the same time, I am a student. Please forgive me for some shortcomings! 
 Questions are welcome!
 - 😝 Have engaged in ios development before
 
@@ -14,12 +14,12 @@ Questions are welcome!
 
 ![Xhs753's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhs753&layout=compact&theme=radical&card_width=270) 
 
-## My Friends🤗
-- DawnNights https://github.com/DawnNights
-- Starx https://github.com/SuzukiHonoka
-- 散无友纪 https://github.com/tdf1939
-- Ywen-Chan https://github.com/Yiwen-Chan
-- fumiama https://github.com/fumiama
+## My Friends🤗(Thank them for their support and company!!)
+- || DawnNights https://github.com/DawnNights
+- || Starx https://github.com/SuzukiHonoka
+- || 散无友纪 https://github.com/tdf1939
+- || Ywen-Chan https://github.com/Yiwen-Chan
+- || fumiama https://github.com/fumiama
 
 
 
