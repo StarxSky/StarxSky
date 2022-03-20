@@ -1,5 +1,6 @@
-### StarxSky
-#### ABOUT ME
+# Welcome！＼（＠￣∇￣＠）／
+
+## ABOUT ME
 - 😃 A watermelon 🍉, like to engage in 
 computer artificial intelligence vision, 
 welcome to point a bit me! 
@@ -23,7 +24,7 @@ Questions are welcome!
 | ©Logo Copyright 2022 Microsoft                                         |
 
 
-## MY FRIENDS🤗(Thank them for their support and company!!)
+### MY FRIENDS🤗(Thank them for their support and company!!)
 |MY FRIENDS
 |-------------------------------------------|
 | DawnNights https://github.com/DawnNights |
@@ -31,7 +32,6 @@ Questions are welcome!
 | 散无友纪 https://github.com/tdf1939
 | Ywen-Chan https://github.com/Yiwen-Chan
 | fumiama https://github.com/fumiama
-
 
 
 <!--START_SECTION:waka-->
@@ -55,8 +55,6 @@ TensorFlow               1081 hrs 45 mis      ███████████�
 **I Mostly Code in Python** 
 ```text
 Python                   8 repos             █████████████░░░░░░░░░░  89.85% 
-
 ```
  Last Updated on 2022/03/15
 <!--END_SECTION:waka-->
-
