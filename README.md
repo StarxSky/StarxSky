@@ -1,5 +1,7 @@
 # Welcome！＼（＠￣∇￣＠）／
-
+```python
+print("HELLO WORLD")
+```
 ## ABOUT ME
 - 😃 A watermelon 🍉, like to engage in 
 computer artificial intelligence vision, 
