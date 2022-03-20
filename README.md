@@ -29,11 +29,11 @@ Questions are welcome!
 ### MY FRIENDS🤗(Thank them for their support and company!!)
 |MY FRIENDS
 |-------------------------------------------|
-| DawnNights https://github.com/DawnNights |
-| Starx https://github.com/SuzukiHonoka
-| 散无友纪 https://github.com/tdf1939
-| Ywen-Chan https://github.com/Yiwen-Chan
-| fumiama https://github.com/fumiama
+| DawnNights--- https://github.com/DawnNights |
+| Starx--- https://github.com/SuzukiHonoka
+| 散无友纪--- https://github.com/tdf1939
+| Ywen-Chan--- https://github.com/Yiwen-Chan
+| fumiama--- https://github.com/fumiama
 
 
 <!--START_SECTION:waka-->
@@ -58,5 +58,5 @@ TensorFlow               1081 hrs 45 mis      ███████████�
 ```text
 Python                   8 repos             █████████████░░░░░░░░░░  89.85% 
 ```
- Last Updated on 2022/03/15
+ Last Updated on 2022/03/20
 <!--END_SECTION:waka-->
