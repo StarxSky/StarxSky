@@ -9,7 +9,7 @@ trigger:
 jobs:
 - job: 'Test'
   pool:
-    vmImage: ubuntu-latest # other options: '', 'windows-latest'ubuntu-latest
+    vmImage: ubuntu-latest # 'windows-latest'ubuntu-latest
   strategy:
     matrix:
       Python39:
@@ -20,3 +20,4 @@ jobs:
     inputs:
       versionSpec: '$(python.version)'
   - script: pip install Flask
+  - script: python HelloWorld.py 
