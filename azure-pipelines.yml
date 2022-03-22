@@ -1,0 +1,22 @@
+# Python package
+# Create and test a Python package on multiple Python versions.
+# Add steps that analyze code, save the dist with the build record, publish to a PyPI-compatible index, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/python
+
+trigger:
+- main
+
+jobs:
+- job: 'Test'
+  pool:
+    vmImage: ubuntu-latest # other options: '', 'windows-latest'ubuntu-latest
+  strategy:
+    matrix:
+      Python39:
+        python.version: '3.9'
+
+  steps:
+  - task: UsePythonVersion@0
+    inputs:
+      versionSpec: '$(python.version)'
+  - script: pip install Flask
