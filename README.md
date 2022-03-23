@@ -39,7 +39,7 @@ Questions are welcome!
 | DawnNights--- https://github.com/DawnNights |
 | Starx--- https://github.com/SuzukiHonoka
 | 散无友纪--- https://github.com/tdf1939
-| Ywen-Chan--- https://github.com/Yiwen-Chan
+| Yiwen-Chan--- https://github.com/Yiwen-Chan
 | fumiama--- https://github.com/fumiama
 | 江林--- https://github.com/Jiang-Red
 | 樱酱--- https://github.com/940842546
