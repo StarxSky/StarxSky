@@ -19,14 +19,6 @@ Questions are welcome!
 
 
 
-|MY GOAL
-|---------------
-|Struggling to get into Microsoft!!🎉
-|![MICROSOFT](https://avatars.githubusercontent.com/u/6154722?s=200&v=4) |
-| ©Logo Copyright 2022 Microsoft                                         |
-
-
-
 # PROJECTS I MAINTAIN
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=starxsky&repo=GPT-2)
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=floattech&repo=AI-Bot)
