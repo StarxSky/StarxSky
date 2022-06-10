@@ -17,14 +17,14 @@ Questions are welcome!
 |![Xhs753's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starxsky&layout=compact&theme=radical&card_width=270) 
 
 
-
-
 # PROJECTS I MAINTAIN & PROJECTS I OFTEN FOLLOW
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=starxsky&repo=GPT-2)
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=floattech&repo=AI-Bot)
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=starxsky&repo=ANE-GPT)
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=Apple&repo=ml-ane-transformers)
 
+#
+# [MY FRIEND](https://github.com/StarxSky/StarxSky/blob/main/My_Friend.md) 
 
 
 
