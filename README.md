@@ -19,16 +19,18 @@ Questions are welcome!
 
 
 
-# PROJECTS I MAINTAIN
+# PROJECTS I MAINTAIN & PROJECTS I OFTEN FOLLOW
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=starxsky&repo=GPT-2)
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=floattech&repo=AI-Bot)
+![ repo](https://github-readme-stats.vercel.app/api/pin/?username=starxsky&repo=ANE-GPT)
+![ repo](https://github-readme-stats.vercel.app/api/pin/?username=Apple&repo=ml-ane-transformers)
 
 
 
 # MY FRIENDS🤗(Thank them for their support and company!!)
 |MY FRIENDS
 |-------------------------------------------|
-| DawnNights--- https://github.com/DawnNights |
+| DawnNights--- https://github.com/DawnNights 
 | Starx--- https://github.com/SuzukiHonoka
 | 散无友纪--- https://github.com/tdf1939
 | Yiwen-Chan--- https://github.com/Yiwen-Chan
@@ -56,12 +58,12 @@ windows                    3681 hrs 46 mins    ███████████
 Apple mac                          2581 hrs    ██████████████████          99.0%
 
 ML :
-Pytorch                    1208 hrs 10 mis     █████████████████████████  100.0%
+Pytorch                    1235 hrs 10 mis     █████████████████████████  100.0%
 TensorFlow                 1081 hrs 45 mis     █████████████████████████  100.0%
 ```
 **I Mostly Code in Python** 
 ```text
 Python                   7 repos               █████████████████████████  100.0% 
 ```
- Last Updated on 2022/03/29
+ Last Updated on 2022/06/10
 <!--END_SECTION:waka-->
