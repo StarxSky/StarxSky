@@ -4,7 +4,7 @@ print("HELLO WORLD")
 ```
 ## ABOUT ME
 - 😃 A watermelon 🍉, like to engage in 
-computer artificial intelligence vision, 
+computer artificial intelligence NLP, 
 welcome to point a bit me! 
 I will keep improving！
 - 😉 At the same time, I am a student. Please forgive me for some shortcomings! 
