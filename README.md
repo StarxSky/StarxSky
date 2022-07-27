@@ -7,6 +7,7 @@ print("HELLO WORLD")
 computer artificial intelligence NLP, 
 welcome to point a bit me! 
 I will keep improving！
+- 🎯 A small Kaggle Experts in Kaggle.
 - 😉 At the same time, I am a student. Please forgive me for some shortcomings! 
 Questions are welcome!
 - 😝 Have engaged in ios development before
@@ -49,5 +50,5 @@ TensorFlow                 1081 hrs 45 mis     ███████████
 ```text
 Python                   7 repos               █████████████████████████  100.0% 
 ```
- Last Updated on 2022/06/10
+ Last Updated on 2022/07/27
 <!--END_SECTION:waka-->
