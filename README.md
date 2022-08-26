@@ -16,6 +16,8 @@ Questions are welcome!
 |-------------
 |![xhs753's github stats](https://github-readme-stats.vercel.app/api?username=starxsky&show_icons=true&theme=radical&line_height=20)
 |![Xhs753's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starxsky&layout=compact&theme=radical&card_width=270) 
+|![trophy](https://github-profile-trophy.vercel.app/?username=starxsky&margin-w=8)
+
 
 
 # PROJECTS I MAINTAIN & PROJECTS I OFTEN FOLLOW
