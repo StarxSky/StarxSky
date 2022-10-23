@@ -2,6 +2,15 @@
 ```python
 print("HELLO WORLD")
 ```
+
+## LOVE MATH
+
+$$\bar{x}(\omega) = \int_{-\infty }^{+\infty} e ^{ -iwt} x(t) \Delta t = \int_{-\infty }^{+\infty } e^{-2\pi ift}x(t)\Delta t$$
+
+ $$x(t) = \int_{-\infty }^{+\infty} e ^{iwt}\bar{x}(\omega)  \frac{\Delta \omega}{2 \pi}  = \int_{-\infty }^{+\infty } e^{2\pi ift}\bar{x}(f)\Delta f$$
+
+
+
 ## ABOUT ME
 - 😃 A watermelon 🍉, like to engage in 
 computer artificial intelligence NLP, 
