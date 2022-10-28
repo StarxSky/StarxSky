@@ -2,6 +2,8 @@
 ```python
 print("HELLO WORLD")
 ```
+## kaggle
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/notebook/light)
 
 ## LOVE MATH
 
@@ -61,5 +63,5 @@ TensorFlow                 1081 hrs 45 mis     ███████████
 ```text
 Python                   7 repos               █████████████████████████  100.0% 
 ```
- Last Updated on 2022/07/27
+ Last Updated on 2022/10/28
 <!--END_SECTION:waka-->
