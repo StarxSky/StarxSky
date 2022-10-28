@@ -3,7 +3,7 @@
 print("HELLO WORLD")
 ```
 ## kaggle
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/notebook/light)
+[![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/notebook/light)](https://www.kaggle.com/lau01b)
 
 ## LOVE MATH
 
