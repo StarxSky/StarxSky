@@ -4,7 +4,9 @@ print("HELLO WORLD")
 ```
 ## kaggle
 [![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/notebook/light)](https://www.kaggle.com/lau01b)
-
+[![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/dataset/light)](https://www.kaggle.com/lau01b)
+[![competitions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/competitions/light)](https://www.kaggle.com/lau01b)
+[![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/discussion/light)](https://www.kaggle.com/lau01b)
 ## LOVE MATH
 
 $$\bar{x}(\omega) = \int_{-\infty }^{+\infty} e ^{ -iwt} x(t) \Delta t = \int_{-\infty }^{+\infty } e^{-2\pi ift}x(t)\Delta t$$
