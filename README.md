@@ -2,16 +2,23 @@
 ```python
 print("HELLO WORLD")
 ```
+## Motto
+$$p(A|B) = \frac{P(A)P(B|A)}{P(B)}$$
+
+*“每一个error都不是无缘无故发生的，当error发生后要知道是什么导致它的发生”*
+
 ## kaggle
-[![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/notebook/light)](https://www.kaggle.com/lau01b)
-[![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/dataset/light)](https://www.kaggle.com/lau01b)
 [![competitions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/competitions/light)](https://www.kaggle.com/lau01b)
+[![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/dataset/light)](https://www.kaggle.com/lau01b)
+[![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/notebook/light)](https://www.kaggle.com/lau01b)
 [![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/discussion/light)](https://www.kaggle.com/lau01b)
 ## LOVE MATH
 
 $$\bar{x}(\omega) = \int_{-\infty }^{+\infty} e ^{ -iwt} x(t) \Delta t = \int_{-\infty }^{+\infty } e^{-2\pi ift}x(t)\Delta t$$
 
- $$x(t) = \int_{-\infty }^{+\infty} e ^{iwt}\bar{x}(\omega)  \frac{\Delta \omega}{2 \pi}  = \int_{-\infty }^{+\infty } e^{2\pi ift}\bar{x}(f)\Delta f$$
+$$x(t) = \int_{-\infty }^{+\infty} e ^{iwt}\bar{x}(\omega)  \frac{\Delta \omega}{2 \pi}  = \int_{-\infty }^{+\infty } e^{2\pi ift}\bar{x}(f)\Delta f$$
+
+
 
 
 
@@ -51,19 +58,19 @@ Questions are welcome!
 Python                     165 hr 46 mins      █████████████████████████  100.00% 
 
 🔥 Editors: 
-PyCharm                    3656 hrs 20 mins    █████████████████████████  100.0%
+PyCharm                    4656 hrs 20 mins    █████████████████████████  100.0%
 
 💻 : 
 windows                    3681 hrs 46 mins    █████████████████████████  100.0%
-Apple mac                          2581 hrs    ██████████████████          99.0%
+Apple mac                          2581 hrs    █████████████████████████  100.0%
 
 ML :
 Pytorch                    1235 hrs 10 mis     █████████████████████████  100.0%
-TensorFlow                 1081 hrs 45 mis     █████████████████████████  100.0%
+TensorFlow                 1081 hrs 45 mis     ███████                    45.00%
 ```
 **I Mostly Code in Python** 
 ```text
 Python                   7 repos               █████████████████████████  100.0% 
 ```
- Last Updated on 2022/10/28
+ Last Updated on 2022/12/2
 <!--END_SECTION:waka-->
