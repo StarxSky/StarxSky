@@ -43,7 +43,7 @@ Questions are welcome!
 # PROJECTS I MAINTAIN & PROJECTS I OFTEN FOLLOW
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=starxsky&repo=GPT-2)
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=floattech&repo=AI-Bot)
-![ repo](https://github-readme-stats.vercel.app/api/pin/?username=starxsky&repo=ANE-GPT)
+![ repo](https://github-readme-stats.vercel.app/api/pin/?username=starxsky&repo=ANE-GPT-New)
 ![ repo](https://github-readme-stats.vercel.app/api/pin/?username=Apple&repo=ml-ane-transformers)
 
 #
