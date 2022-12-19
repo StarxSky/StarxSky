@@ -12,6 +12,9 @@ $$p(A|B) = \frac{P(A)P(B|A)}{P(B)}$$
 [![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/dataset/light)](https://www.kaggle.com/lau01b)
 [![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/notebook/light)](https://www.kaggle.com/lau01b)
 [![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/discussion/light)](https://www.kaggle.com/lau01b)
+
+#### Competitions
+* [✓] **Feed Back-Prize (NLP)** top6%
 ## LOVE MATH
 
 $$\bar{x}(\omega) = \int_{-\infty }^{+\infty} e ^{ -iwt} x(t) \Delta t = \int_{-\infty }^{+\infty } e^{-2\pi ift}x(t)\Delta t$$
