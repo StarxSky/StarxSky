@@ -15,6 +15,7 @@ $$p(A|B) = \frac{P(A)P(B|A)}{P(B)}$$
 
 #### Competitions
 * [✓] **Feed Back-Prize (NLP)** top6%
+* [√] **G2Net-2022(Signal CV)** top8%
 ## LOVE MATH
 
 $$\bar{x}(\omega) = \int_{-\infty }^{+\infty} e ^{ -iwt} x(t) \Delta t = \int_{-\infty }^{+\infty } e^{-2\pi ift}x(t)\Delta t$$
@@ -75,5 +76,5 @@ TensorFlow                 1081 hrs 45 mis     ███████            
 ```text
 Python                   7 repos               █████████████████████████  100.0% 
 ```
- Last Updated on 2022/12/2
+ Last Updated on 2023/1/4
 <!--END_SECTION:waka-->
