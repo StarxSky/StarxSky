@@ -5,7 +5,7 @@ print("HELLO WORLD")
 ## Motto
 $$p(A|B) = \frac{P(A)P(B|A)}{P(B)}$$
 
-*“Every error does not happen for no reason. When an error occurs, know what caused it”*
+*“无欲速，无见小利。欲速则不达，无见小利则大事不成。”*
 
 ## [kaggle](https://www.kaggle.com/lau01b)
 
@@ -30,12 +30,6 @@ $$p(A|B) = \frac{P(A)P(B|A)}{P(B)}$$
 |CONTRIBUTE
 |-------------
 |![xhs753's github stats](https://github-readme-stats.vercel.app/api?username=starxsky&show_icons=true&theme=radical&line_height=20)
-|![Xhs753's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starxsky&layout=compact&theme=radical&card_width=270) 
-|![trophy](https://github-profile-trophy.vercel.app/?username=starxsky&margin-w=8)
-
-
-
-
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -44,11 +38,11 @@ $$p(A|B) = \frac{P(A)P(B|A)}{P(B)}$$
 Python                     ∞ hr ∞ mins      █████████████████████████  100.00% 
 
 🔥 Editors: 
-PyCharm                    ∞ hrs ∞ mins     █████████████████████████  100.0%
+VScode                     ∞ hrs ∞ mins     █████████████████████████  100.0%
 
 💻 : 
 windows                    ∞ hrs ∞ mins     █████████████████████████  100.0%
-Apple mac                          ∞ hrs    █████████████████████████  100.0%
+Apple mac                        7 hrs      █████████████████████████  100.0%
 
 ML :
 Pytorch                    ∞ hrs ∞ mis      █████████████████████████  100.0%
