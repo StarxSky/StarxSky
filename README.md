@@ -1,25 +1,14 @@
-# Welcome！＼（＠￣∇￣＠）／
-```python
-print("HELLO WORLD")
-```
-# Motto
+
 $$Life = \int_{birth}^{death} study \space dt $$
 
-*“无欲速，无见小利。欲速则不达，无见小利则大事不成。”*
+$$“无欲速，无见小利。欲速则不达，无见小利则大事不成。”$$
 
-# [kaggle](https://www.kaggle.com/lau01b)
-
-[![competitions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lau01b/competitions/light)](https://www.kaggle.com/lau01b)
 
 # 🎯 Goal in Life
 * ☀️ Competitions Master  
 * 🎓 Master  of Imperial College London
 * 🪄 Phd of Westlake University
 
-# What am I doing now?
-* 🏆Kaggle competitions
-* 🖥Learning C++, Java, Linux kernel & Linux kernel programming
-* 📚Linear Algebra, Calculus
 
 
 # ABOUT ME
@@ -28,6 +17,10 @@ $$Life = \int_{birth}^{death} study \space dt $$
 - Like watermelon 🍉
 - Love open source
 
+## What am I doing now?
+* 🏆Kaggle competitions
+* 🖥Learning C++, Java, Linux kernel & Linux kernel programming
+* 📚Linear Algebra, Calculus
 
 |CONTRIBUTE
 |-------------
