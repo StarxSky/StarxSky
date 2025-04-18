@@ -27,4 +27,4 @@ $$“无欲速，无见小利。欲速则不达，无见小利则大事不成。
 |![xhs753's github stats](https://github-readme-stats.vercel.app/api?username=starxsky&show_icons=true&theme=radical&line_height=20)
 
 
-# [MY FRIEND](https://github.com/StarxSky/StarxSky/blob/main/My_Friend.md) 
+
