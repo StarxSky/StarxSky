@@ -4,10 +4,10 @@ $$Life = \int_{birth}^{death} study \space dt $$
 $$“无欲速，无见小利。欲速则不达，无见小利则大事不成。”$$
 
 
-# 🎯 Goal in Life
+# 🎯 Goal 
 * ☀️ Competitions Master  
-* 🎓 Master  of Imperial College London
-* 🪄 Phd of Westlake University
+* 🎓 Master  of DKU
+
 
 
 
@@ -20,7 +20,7 @@ $$“无欲速，无见小利。欲速则不达，无见小利则大事不成。
 ## What am I doing now?
 * 🏆Kaggle competitions
 * 🖥Learning C++, Java, Linux kernel & Linux kernel programming
-* 📚Linear Algebra, Calculus
+
 
 |CONTRIBUTE
 |-------------
