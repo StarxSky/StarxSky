@@ -13,13 +13,13 @@ $$“无欲速，无见小利。欲速则不达，无见小利则大事不成。
 
 # ABOUT ME
 - MBTI: INTJ-T
-- Extensive interests mainly focusing on machine learning, data analytics, mathematics competitions.
+- Interests mainly focusing on **Machine Learning**, **Mathematics Competitions**.
 - Like watermelon 🍉
 - Love open source
 
 ## What am I doing now?
-* 🏆Kaggle competitions
-* 🖥Learning C++, Java, Linux kernel & Linux kernel programming
+* 🏆 Kaggle competitions
+* 🖥 Learning C++, Linux kernel programming, LeetCode
 
 
 |CONTRIBUTE
