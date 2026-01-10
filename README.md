@@ -5,7 +5,7 @@ $$“无欲速，无见小利。欲速则不达，无见小利则大事不成。
 
 
 # 🎯 Goal 
-* ☀️ Competitions Master  
+* ☀️ Competitions Master  (Kaggle)
 * 🎓 Master  of DKU
 
 
