@@ -20,11 +20,3 @@ $$“无欲速，无见小利。欲速则不达，无见小利则大事不成。
 ## What am I doing now?
 * 🏆 Kaggle competitions
 * 🖥 Learning C++, Linux kernel programming, LeetCode
-
-
-|CONTRIBUTE
-|-------------
-|![xhs753's github stats](https://github-readme-stats.vercel.app/api?username=starxsky&show_icons=true&theme=radical&line_height=20)
-
-
-
