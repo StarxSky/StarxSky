@@ -1,7 +1,7 @@
 
 $$Life = \int_{birth}^{death} study \space dt $$
 
-$$“无欲速，无见小利。欲速则不达，无见小利则大事不成。”$$
+$$ "Stay Hungry, Stay Foolish"  $$ $$ --- Steve · Jobs  $$
 
 
 
@@ -11,19 +11,31 @@ $$“无欲速，无见小利。欲速则不达，无见小利则大事不成。
 - Interests mainly focusing on **Machine Learning**, **Mathematics Competitions**.
 - Academic trash (
 - Love open source
+- Vibe Coder ;-)
+- Email : starxsky@outlook.com (Feel free to contact me in anytime ~)
   
 ## Skill Stack
 
 [![My Skills](https://skillicons.dev/icons?i=azure,cpp,golang,anaconda,python,pytorch,tensorflow,cmake,docker)](https://skillicons.dev)
 
 ## 🎯 Goal 
-* ☀️ Competitions Master  (Kaggle)
-* 🎓 Artifical Intelligence Master of Universität Würzburg 
+* [x] 🖊️ Competitions Expert (Kaggle) 
+* [ ] ☀️ Competitions Master (Kaggle)
+* [ ] 🎓 Artifical Intelligence Master of Universität Würzburg
+* [ ] 📄 A paper in *Nature Computational Science* Journal.
 
 
 ## What am I doing now?
-* 🏆 Kaggle competitions
-* 🖥 Learning C++, Linux kernel programming, LeetCode
+* 🏆 Kaggle competitions ongoing
+* [x] Golang
+* [x] C++
+* [ ] Review 18.06 Linear Algebra
+* [ ] *CSAPP* Book
+* [ ] LeetCode
+* [ ] Assembly Language 
+* [ ] Linux Kernel
+
+
 
 ---
 <img width="400px" src="./github-metrics.svg" />
