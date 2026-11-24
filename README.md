@@ -21,7 +21,7 @@ $$ "Stay Hungry, Stay Foolish"  $$ $$ --- Steve · Jobs  $$
 ## 🎯 Goal 
 * [x] 🖊️ Competitions Expert (Kaggle) 
 * [ ] ☀️ Competitions Master (Kaggle)
-* [ ] 🎓 Artifical Intelligence Master of Universität Würzburg
+* [ ] 🎓 Artifical Intelligence Master 
 * [ ] 📄 A paper in *Nature Computational Science* Journal.
 
 
